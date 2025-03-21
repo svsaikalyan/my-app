@@ -9,6 +9,8 @@ public class AssignmentOperatorsTest {
 	
 	@Test
 	public void simpleCompound() {
+		int a= 10, b=20;
+		int c1 = a+b;
 		AssignmentOperatorsIf ao = new AssignmentOperators();
 		int c = ao.simpleAssigment(12);
 		System.out.println("simpleCompound is"+ c);
