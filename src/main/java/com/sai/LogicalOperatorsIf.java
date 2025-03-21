@@ -2,13 +2,13 @@ package com.sai;
 
 public interface LogicalOperatorsIf {
 	
-//	int conditionOperator(int a,int b);
+
 	/**
 	 * logicalAndOperator (&&), 
 	 * 1. It is usually used in Boolean expressions.
 	 * This operator returns true when both the conditions under consideration are satisfied or are true. If even one of the two yields false, 
 	 * the operator results false. In Simple terms, cond1 && cond2 returns true
-	 * && -logicial AND
+	 * && -logical AND
 	 * @param b2
 	 * @return
 	 */
